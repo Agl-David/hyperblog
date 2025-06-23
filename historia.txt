@@ -1,7 +1,3 @@
 hola esta es la historia de David 
-
 tengo 35 años y estoy estudiando programación xD 
-
-hoy hablaremos de su vida y obra maestra
-
-lunes: 23 de junio 2025
+hoy es san juan y estoy practicando git xD
