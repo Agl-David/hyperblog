@@ -6,6 +6,15 @@ body {
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    background-color: rgb(22, 22, 212);
+    box-shadow: 5px 1px 15px 5px rgba(0,0,0,0.73);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
 #container{
     width: 70%;
     padding: 1em;
@@ -18,3 +27,7 @@ body {
     font-size: 20px;
 
 }
+ #post{
+    padding: 1em;
+
+ }
