@@ -41,3 +41,6 @@ body {
   display: flex;
   justify-content: center;
 }
+.title-2{
+    font-size: 30px;
+}
