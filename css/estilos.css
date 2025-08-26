@@ -31,3 +31,17 @@ body {
     padding: 1em;
 
  }
+.title-footer{
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+
+}
+.title-footer h1{
+    background-color: rebeccapurple;
+    font-size: 20px;
+    width: 500px;
+}
